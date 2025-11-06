@@ -1,6 +1,6 @@
 # Principal Component Analysis
 
-![San Agustín en oración by Jusepe de Ribera, 1636](img.jpg)
+![San Agustín en oración by Jusepe de Ribera, 1636](cover.jpg)
 
 In progress
 
