@@ -16,3 +16,11 @@ The goal of principal component analysis is to take some model and delete the le
 - components to reduce dimensionality while retaining maximal variance.
 
 Result: after diagonalizing the covariance matrix, we have some eigenvectors. The ones with the lowest corresponding eigenvalues are the least important. Using only the top k eigenvectors, we can project our data into a lower-dimensional space. We get rid of collinearity since they fall within the subspace spanned by the orthogonal eigenvectors.
+
+## Implementation
+
+## Installation
+
+## License
+
+MIT
